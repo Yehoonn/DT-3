@@ -1,4 +1,4 @@
-import defaultSet from "./defaultSet.js";
+import defaultSet from "../style/defaultSet.js";
 
 export default function aside() {
   const mainBox = document.getElementById("main-box");

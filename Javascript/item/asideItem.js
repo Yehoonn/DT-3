@@ -1,7 +1,7 @@
-import data from "./data.js";
-import defaultSet from "./defaultSet.js";
-import change from "./interval.js";
-import styling from "./styling.js";
+import data from "../data/data.js";
+import defaultSet from "../style/defaultSet.js";
+import change from "../interaction/interval.js";
+import styling from "../style/styling.js";
 
 export default function asideItem() {
   const aside = document.getElementById("aside");

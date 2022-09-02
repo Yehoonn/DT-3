@@ -1,6 +1,6 @@
-import data from "./data.js";
-import defaultSet from "./defaultSet.js";
-import styling from "./styling.js";
+import data from "../data/data.js";
+import defaultSet from "../style/defaultSet.js";
+import styling from "../style/styling.js";
 
 const body = document.body;
 

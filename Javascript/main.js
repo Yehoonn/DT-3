@@ -1,10 +1,10 @@
-import article from "./article.js";
-import aside from "./aside.js";
-import asideItem from "./asideItem.js";
-import colorMode from "./colorMode.js";
-import header from "./header.js";
-import mainBox from "./mainBox.js";
-import thumanail from "./thumnail.js";
+import article from "./box/article.js";
+import aside from "./box/aside.js";
+import asideItem from "./item/asideItem.js";
+import colorMode from "./interaction/colorMode.js";
+import header from "./box/header.js";
+import mainBox from "./box/mainBox.js";
+import thumanail from "./item/thumnail.js";
 
 header();
 mainBox();

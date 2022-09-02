@@ -1,5 +1,5 @@
-import data from "./data.js";
-import styling from "./styling.js";
+import data from "../data/data.js";
+import styling from "../style/styling.js";
 
 export default function change(number) {
   let count = number;

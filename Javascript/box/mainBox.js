@@ -1,4 +1,4 @@
-import defaultSet from "./defaultSet.js";
+import defaultSet from "../style/defaultSet.js";
 
 const body = document.body;
 const root = document.getElementById("root");

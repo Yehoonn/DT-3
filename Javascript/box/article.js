@@ -1,5 +1,5 @@
-import defaultSet from "./defaultSet.js";
-import styling from "./styling.js";
+import defaultSet from "../style/defaultSet.js";
+import styling from "../style/styling.js";
 
 export default function article() {
   const mainBox = document.getElementById("main-box");

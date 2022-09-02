@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/Yehoonn/DT-3/issues"
   },
-  "homepage": "https://github.com/Yehoonn/DT-3#readme"
+  "homepage": "https://github.com/Yehoonn/DT-3#readme",
+  "type": "module"
 }

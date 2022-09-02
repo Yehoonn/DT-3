@@ -1,6 +1,5 @@
 import data from "./data.js";
 import defaultSet from "./defaultSet.js";
-import change from "./interval.js";
 import styling from "./styling.js";
 
 export default {

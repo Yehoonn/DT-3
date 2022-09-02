@@ -1,0 +1,19 @@
+{
+  "name": "dt-3",
+  "version": "1.0.0",
+  "description": "'Develop Training 3'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yehoonn/DT-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yehoonn/DT-3/issues"
+  },
+  "homepage": "https://github.com/Yehoonn/DT-3#readme"
+}
